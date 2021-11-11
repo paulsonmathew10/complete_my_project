@@ -6,7 +6,6 @@ itsdangerous==1.1.0
 Jinja2==2.11.2
 MarkupSafe==1.1.1
 mysql-connector==2.2.9
-MySQLConnectorCXX==1.0.0
 pycodestyle==2.8.0
 PyMySQL==0.10.1
 pyngrok==5.1.0
